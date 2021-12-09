@@ -11,7 +11,7 @@
     "axios": "0.19.2",
     "leaf-validator": "3.4.7",
     "mongodb": "3.5.9",
-    "next": "9.4.4",
+    "next": "11.1.3",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
   },
